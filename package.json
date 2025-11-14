@@ -1,25 +1,32 @@
 {
   "name": "acquisitions",
+  "type": "module",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "type": "module",
-  "scripts": {
-    "dev": "node --watch src/index.js"
-  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/sharad-ritu/acquisitions#readme",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sharad-ritu/acquisitions.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/sharad-ritu/acquisitions/issues"
   },
-  "homepage": "https://github.com/sharad-ritu/acquisitions#readme",
+  "keywords": [],
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch src/index.js",
+    "lint": "eslint",
+    "lint:fix": "eslint --fix"
+  },
   "dependencies": {
     "dotenv": "^17.2.3",
     "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "@antfu/eslint-config": "^6.2.0",
+    "eslint": "^9.38.0",
+    "eslint-plugin-format": "^1.0.2"
   }
 }
