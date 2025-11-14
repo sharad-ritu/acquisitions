@@ -18,14 +18,20 @@
   "scripts": {
     "dev": "node --watch src/index.js",
     "lint": "eslint",
-    "lint:fix": "eslint --fix"
+    "lint:fix": "eslint --fix",
+    "db:generate": "drizzle-kit generate",
+    "db:migrate": "drizzle-kit migrate",
+    "db:studio": "drizzle-kit studio"
   },
   "dependencies": {
+    "@neondatabase/serverless": "^1.0.2",
     "dotenv": "^17.2.3",
+    "drizzle-orm": "^0.44.7",
     "express": "^5.1.0"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^6.2.0",
+    "drizzle-kit": "^0.31.7",
     "eslint": "^9.38.0",
     "eslint-plugin-format": "^1.0.2"
   }
