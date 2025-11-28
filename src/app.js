@@ -1,4 +1,5 @@
 import logger from '#configs/logger.js';
+import securityMiddleware from '#middlewares/security.middleware.js';
 import authRoutes from '#routes/auth.route.js';
 import cookieParser from 'cookie-parser';
 import cors from 'cors';
@@ -16,7 +17,9 @@ app.use(cookieParser());
 
 app.use(morgan('combined', { stream: { write: message => logger.info(message.trim()) } }));
 
-app.get('/', (req, res) => {
+app.use(securityMiddleware);
+
+app.get('/', (_req, res) => {
   logger.info('Hehehe Haw');
   res.send('Hello World!');
 });
