@@ -19,5 +19,6 @@ export default antfu({
       case: 'kebabCase',
       ignore: ['README.md'],
     }],
+    'test/prefer-lowercase-title': 'off'
   },
 });

@@ -32,15 +32,15 @@ async function securityMiddleware(req, res, next) {
 
     const decision = await client.protect(req);
 
-    if (decision.isDenied() && decision.reason.isBot()) {
-      logger.warn('Bot detected, request blocked', {
-        ip: req.ip,
-        userAgent: req.get('User-Agent'),
-        path: req.path,
-      });
+    // if (decision.isDenied() && decision.reason.isBot()) {
+    //   logger.warn('Bot detected, request blocked', {
+    //     ip: req.ip,
+    //     userAgent: req.get('User-Agent'),
+    //     path: req.path,
+    //   });
 
-      return res.status(403).json({ error: 'Bot detected', message: 'Your request has been blocked due to bot detection' });
-    }
+    //   return res.status(403).json({ error: 'Bot detected', message: 'Your request has been blocked due to bot detection' });
+    // }
 
     if (decision.isDenied() && decision.reason.isShield()) {
       logger.warn('Shield blocked request', {

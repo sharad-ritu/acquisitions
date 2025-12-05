@@ -15,6 +15,7 @@
   },
   "keywords": [],
   "imports": {
+    "#src/*": "./src/*",
     "#configs/*": "./src/configs/*",
     "#controllers/*": "./src/controllers/*",
     "#routes/*": "./src/routes/*",
@@ -27,11 +28,15 @@
   "main": "index.js",
   "scripts": {
     "dev": "node --watch src/index.js",
+    "start": "node src/index.js",
     "lint": "eslint",
     "lint:fix": "eslint --fix",
     "db:generate": "drizzle-kit generate",
     "db:migrate": "drizzle-kit migrate",
-    "db:studio": "drizzle-kit studio"
+    "db:studio": "drizzle-kit studio",
+    "dev:docker": "sh scripts/dev.sh",
+    "prod:docker": "sh scripts/prod.sh",
+    "test": "NODE_OPTIONS=--experimental-vm-modules jest"
   },
   "dependencies": {
     "@arcjet/inspect": "^1.0.0-beta.15",
@@ -53,6 +58,8 @@
     "@antfu/eslint-config": "^6.2.0",
     "drizzle-kit": "^0.31.7",
     "eslint": "^9.38.0",
-    "eslint-plugin-format": "^1.0.2"
+    "eslint-plugin-format": "^1.0.2",
+    "jest": "^30.2.0",
+    "supertest": "^7.1.4"
   }
 }

@@ -210,3 +210,184 @@
 {"level":"info","message":"::1 - - [28/Nov/2025:18:41:52 +0000] \"GET /health HTTP/1.1\" 403 87 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
 {"ip":"::1","level":"warn","message":"Rate limit exceeded, request blocked","method":"GET","path":"/health","service":"acquisitions-api","userAgent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"}
 {"level":"info","message":"::1 - - [28/Nov/2025:18:41:54 +0000] \"GET /health HTTP/1.1\" 403 87 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [28/Nov/2025:18:42:30 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [28/Nov/2025:18:42:31 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [28/Nov/2025:18:42:32 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [28/Nov/2025:18:42:33 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [28/Nov/2025:18:42:34 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded, request blocked","method":"GET","path":"/health","service":"acquisitions-api","userAgent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"}
+{"level":"info","message":"::1 - - [28/Nov/2025:18:42:34 +0000] \"GET /health HTTP/1.1\" 403 87 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded, request blocked","method":"GET","path":"/health","service":"acquisitions-api","userAgent":"PostmanRuntime/7.49.1"}
+{"level":"info","message":"::1 - - [28/Nov/2025:18:42:53 +0000] \"GET /health HTTP/1.1\" 403 87 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded, request blocked","method":"GET","path":"/health","service":"acquisitions-api","userAgent":"PostmanRuntime/7.49.1"}
+{"level":"info","message":"::1 - - [28/Nov/2025:18:42:54 +0000] \"GET /health HTTP/1.1\" 403 87 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded, request blocked","method":"GET","path":"/health","service":"acquisitions-api","userAgent":"PostmanRuntime/7.49.1"}
+{"level":"info","message":"::1 - - [28/Nov/2025:18:42:55 +0000] \"GET /health HTTP/1.1\" 403 87 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded, request blocked","method":"GET","path":"/","service":"acquisitions-api","userAgent":"PostmanRuntime/7.49.1"}
+{"level":"info","message":"::1 - - [28/Nov/2025:18:42:58 +0000] \"GET / HTTP/1.1\" 403 87 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot detected, request blocked","path":"/","service":"acquisitions-api","userAgent":"PostmanRuntime/7.49.1"}
+{"level":"info","message":"::1 - - [28/Nov/2025:18:42:59 +0000] \"GET / HTTP/1.1\" 403 87 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot detected, request blocked","path":"/","service":"acquisitions-api","userAgent":"PostmanRuntime/7.49.1"}
+{"level":"info","message":"::1 - - [28/Nov/2025:18:43:01 +0000] \"GET / HTTP/1.1\" 403 87 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot detected, request blocked","path":"/","service":"acquisitions-api","userAgent":"PostmanRuntime/7.49.1"}
+{"level":"info","message":"::1 - - [28/Nov/2025:18:43:02 +0000] \"GET / HTTP/1.1\" 403 87 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot detected, request blocked","path":"/","service":"acquisitions-api","userAgent":"PostmanRuntime/7.49.1"}
+{"level":"info","message":"::1 - - [28/Nov/2025:18:43:04 +0000] \"GET / HTTP/1.1\" 403 87 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot detected, request blocked","path":"/","service":"acquisitions-api","userAgent":"PostmanRuntime/7.49.1"}
+{"level":"info","message":"::1 - - [28/Nov/2025:18:43:05 +0000] \"GET / HTTP/1.1\" 403 87 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot detected, request blocked","path":"/","service":"acquisitions-api","userAgent":"PostmanRuntime/7.49.1"}
+{"level":"info","message":"::1 - - [28/Nov/2025:18:43:07 +0000] \"GET / HTTP/1.1\" 403 87 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot detected, request blocked","path":"/","service":"acquisitions-api","userAgent":"PostmanRuntime/7.49.1"}
+{"level":"info","message":"::1 - - [28/Nov/2025:18:43:08 +0000] \"GET / HTTP/1.1\" 403 87 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot detected, request blocked","path":"/","service":"acquisitions-api","userAgent":"PostmanRuntime/7.49.1"}
+{"level":"info","message":"::1 - - [28/Nov/2025:18:43:09 +0000] \"GET / HTTP/1.1\" 403 87 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot detected, request blocked","path":"/","service":"acquisitions-api","userAgent":"PostmanRuntime/7.49.1"}
+{"level":"info","message":"::1 - - [28/Nov/2025:18:43:09 +0000] \"GET / HTTP/1.1\" 403 87 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot detected, request blocked","path":"/health","service":"acquisitions-api","userAgent":"PostmanRuntime/7.49.1"}
+{"level":"info","message":"::1 - - [28/Nov/2025:18:43:14 +0000] \"GET /health HTTP/1.1\" 403 87 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot detected, request blocked","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"PostmanRuntime/7.49.1"}
+{"level":"info","message":"::1 - - [28/Nov/2025:18:44:05 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 87 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot detected, request blocked","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"PostmanRuntime/7.49.1"}
+{"level":"info","message":"::1 - - [28/Nov/2025:18:44:11 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 87 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot detected, request blocked","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"PostmanRuntime/7.49.1"}
+{"level":"info","message":"::1 - - [28/Nov/2025:18:45:41 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 87 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot detected, request blocked","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"PostmanRuntime/7.49.1"}
+{"level":"info","message":"::1 - - [28/Nov/2025:18:45:43 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 87 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot detected, request blocked","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"PostmanRuntime/7.49.1"}
+{"level":"info","message":"::1 - - [28/Nov/2025:18:47:18 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 87 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [28/Nov/2025:18:50:58 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [28/Nov/2025:18:51:01 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [28/Nov/2025:18:51:02 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [28/Nov/2025:18:51:02 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [28/Nov/2025:18:51:03 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [28/Nov/2025:18:51:04 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded, request blocked","method":"GET","path":"/health","service":"acquisitions-api","userAgent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"}
+{"level":"info","message":"::1 - - [28/Nov/2025:18:51:04 +0000] \"GET /health HTTP/1.1\" 403 87 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded, request blocked","method":"GET","path":"/health","service":"acquisitions-api","userAgent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"}
+{"level":"info","message":"::1 - - [28/Nov/2025:18:51:05 +0000] \"GET /health HTTP/1.1\" 403 87 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded, request blocked","method":"GET","path":"/health","service":"acquisitions-api","userAgent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"}
+{"level":"info","message":"::1 - - [28/Nov/2025:18:51:05 +0000] \"GET /health HTTP/1.1\" 403 87 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded, request blocked","method":"GET","path":"/health","service":"acquisitions-api","userAgent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"}
+{"level":"info","message":"::1 - - [28/Nov/2025:18:51:05 +0000] \"GET /health HTTP/1.1\" 403 87 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded, request blocked","method":"GET","path":"/health","service":"acquisitions-api","userAgent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"}
+{"level":"info","message":"::1 - - [28/Nov/2025:18:51:06 +0000] \"GET /health HTTP/1.1\" 403 87 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded, request blocked","method":"GET","path":"/health","service":"acquisitions-api","userAgent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"}
+{"level":"info","message":"::1 - - [28/Nov/2025:18:51:06 +0000] \"GET /health HTTP/1.1\" 403 87 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded, request blocked","method":"GET","path":"/health","service":"acquisitions-api","userAgent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"}
+{"level":"info","message":"::1 - - [28/Nov/2025:18:51:06 +0000] \"GET /health HTTP/1.1\" 403 87 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded, request blocked","method":"GET","path":"/health","service":"acquisitions-api","userAgent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"}
+{"level":"info","message":"::1 - - [28/Nov/2025:18:51:06 +0000] \"GET /health HTTP/1.1\" 403 87 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded, request blocked","method":"GET","path":"/health","service":"acquisitions-api","userAgent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"}
+{"level":"info","message":"::1 - - [28/Nov/2025:18:51:06 +0000] \"GET /health HTTP/1.1\" 403 87 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded, request blocked","method":"GET","path":"/health","service":"acquisitions-api","userAgent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"}
+{"level":"info","message":"::1 - - [28/Nov/2025:18:51:07 +0000] \"GET /health HTTP/1.1\" 403 87 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"Hehehe Haw","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [02/Dec/2025:18:09:01 +0000] \"GET / HTTP/1.1\" 200 12 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [02/Dec/2025:18:09:01 +0000] \"GET /favicon.ico HTTP/1.1\" 404 150 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.18.0.1","level":"warn","message":"Bot detected, request blocked","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"PostmanRuntime/7.49.1"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [02/Dec/2025:18:14:56 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 87 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"ip":"::ffff:172.18.0.1","level":"warn","message":"Bot detected, request blocked","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"PostmanRuntime/7.49.1"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [02/Dec/2025:18:14:59 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 87 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"level":"error","message":"Error signing in user: Invalid email or password","service":"acquisitions-api","stack":"Error: Invalid email or password\n    at signInUser (file:///app/src/services/auth.service.js:62:13)\n    at async signIn (file:///app/src/controllers/auth.controller.js:61:18)"}
+{"level":"error","message":"Error in sign in: Invalid email or password","service":"acquisitions-api","stack":"Error: Invalid email or password\n    at signInUser (file:///app/src/services/auth.service.js:71:11)\n    at async signIn (file:///app/src/controllers/auth.controller.js:61:18)"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [02/Dec/2025:18:15:39 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 401 37 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"level":"error","message":"Error creating user: User with this email already exists","service":"acquisitions-api","stack":"Error: User with this email already exists\n    at createUser (file:///app/src/services/auth.service.js:22:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async signUp (file:///app/src/controllers/auth.controller.js:21:18)"}
+{"level":"error","message":"Error in signup: User with this email already exists","service":"acquisitions-api","stack":"Error: User with this email already exists\n    at createUser (file:///app/src/services/auth.service.js:48:11)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async signUp (file:///app/src/controllers/auth.controller.js:21:18)"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [02/Dec/2025:18:15:54 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 409 32 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [02/Dec/2025:18:16:15 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 114 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"level":"info","message":"Hehehe Haw","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [03/Dec/2025:16:35:17 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [03/Dec/2025:16:35:17 +0000] \"GET /favicon.ico HTTP/1.1\" 404 150 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"User with email sharad69@gmail.com created successfully with ID: 3","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [03/Dec/2025:16:40:12 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 201 125 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [03/Dec/2025:17:46:32 +0000] \"GET /api/users HTTP/1.1\" 401 72 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"cause":{"name":"NeonDbError","sourceError":{}},"level":"error","message":"Error signing in user: Failed query: select \"id\", \"name\", \"email\", \"password\", \"role\", \"created_at\", \"updated_at\" from \"users\" where \"users\".\"email\" = $1 limit $2\nparams: sharad@gmail.com,1","params":["sharad@gmail.com",1],"query":"select \"id\", \"name\", \"email\", \"password\", \"role\", \"created_at\", \"updated_at\" from \"users\" where \"users\".\"email\" = $1 limit $2","service":"acquisitions-api","stack":"Error: Failed query: select \"id\", \"name\", \"email\", \"password\", \"role\", \"created_at\", \"updated_at\" from \"users\" where \"users\".\"email\" = $1 limit $2\nparams: sharad@gmail.com,1\n    at NeonHttpPreparedQuery.queryWithCache (file:///home/sharad-ritu/SHARAD/code-practice/acquisitions/node_modules/drizzle-orm/pg-core/session.js:41:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async NeonHttpPreparedQuery.execute (file:///home/sharad-ritu/SHARAD/code-practice/acquisitions/node_modules/drizzle-orm/neon-http/session.js:45:20)\n    at async signInUser (file:///home/sharad-ritu/SHARAD/code-practice/acquisitions/src/services/auth.service.js:54:20)\n    at async signIn (file:///home/sharad-ritu/SHARAD/code-practice/acquisitions/src/controllers/auth.controller.js:61:18)"}
+{"level":"error","message":"Error in sign in: Failed query: select \"id\", \"name\", \"email\", \"password\", \"role\", \"created_at\", \"updated_at\" from \"users\" where \"users\".\"email\" = $1 limit $2\nparams: sharad@gmail.com,1","service":"acquisitions-api","stack":"Error: Failed query: select \"id\", \"name\", \"email\", \"password\", \"role\", \"created_at\", \"updated_at\" from \"users\" where \"users\".\"email\" = $1 limit $2\nparams: sharad@gmail.com,1\n    at signInUser (file:///home/sharad-ritu/SHARAD/code-practice/acquisitions/src/services/auth.service.js:71:11)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async signIn (file:///home/sharad-ritu/SHARAD/code-practice/acquisitions/src/controllers/auth.controller.js:61:18)"}
+{"level":"info","message":"::1 - - [03/Dec/2025:17:48:07 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 500 760 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [03/Dec/2025:17:51:56 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 114 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [03/Dec/2025:17:52:15 +0000] \"GET /api/users HTTP/1.1\" 401 72 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: sharad@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [03/Dec/2025:17:54:44 +0000] \"GET /api/users HTTP/1.1\" 200 366 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"level":"info","message":"User with email sharad69@gmail.com created successfully with ID: 3","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [03/Dec/2025:17:56:31 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 201 125 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: sharad69@gmail.com (admin)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [03/Dec/2025:17:56:34 +0000] \"GET /api/users HTTP/1.1\" 200 522 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: sharad69@gmail.com (admin)","service":"acquisitions-api"}
+{"level":"info","message":"Getting user by id: 2","service":"acquisitions-api"}
+{"level":"info","message":"User sharad2@gmail.com retrieved successfully","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [03/Dec/2025:18:00:49 +0000] \"GET /api/users/2 HTTP/1.1\" 200 201 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: sharad69@gmail.com (admin)","service":"acquisitions-api"}
+{"level":"info","message":"Getting user by id: 69","service":"acquisitions-api"}
+{"level":"error","message":"Error getting user by id 69: User not found","service":"acquisitions-api","stack":"Error: User not found\n    at getUserById (file:///app/src/services/users.service.js:41:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async fetchUserById (file:///app/src/controllers/users.controller.js:47:18)"}
+{"level":"error","message":"Error fetching user by id: User not found","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [03/Dec/2025:18:00:57 +0000] \"GET /api/users/69 HTTP/1.1\" 404 26 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: sharad69@gmail.com (admin)","service":"acquisitions-api"}
+{"level":"info","message":"Getting user by id: 3","service":"acquisitions-api"}
+{"level":"info","message":"User sharad69@gmail.com retrieved successfully","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [03/Dec/2025:18:01:02 +0000] \"GET /api/users/3 HTTP/1.1\" 200 204 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: sharad69@gmail.com (admin)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [03/Dec/2025:18:01:23 +0000] \"GET /api/users HTTP/1.1\" 200 522 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [03/Dec/2025:18:02:49 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: sharad69@gmail.com (admin)","service":"acquisitions-api"}
+{"level":"info","message":"Updating user: 2","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [03/Dec/2025:18:05:24 +0000] \"PUT /api/users/2 HTTP/1.1\" 400 92 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: sharad69@gmail.com (admin)","service":"acquisitions-api"}
+{"level":"info","message":"Updating user: 2","service":"acquisitions-api"}
+{"level":"info","message":"User sharad2@gmail.com updated successfully","service":"acquisitions-api"}
+{"level":"info","message":"User sharad2@gmail.com updated successfully","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [03/Dec/2025:18:06:05 +0000] \"PUT /api/users/2 HTTP/1.1\" 200 199 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: sharad69@gmail.com (admin)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [03/Dec/2025:18:06:27 +0000] \"GET /api/users HTTP/1.1\" 200 522 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [03/Dec/2025:18:06:37 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 114 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: sharad@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Updating user: 2","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [03/Dec/2025:18:06:40 +0000] \"PUT /api/users/2 HTTP/1.1\" 403 78 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [03/Dec/2025:18:07:01 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 116 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: sharad2@gmail.com (admin)","service":"acquisitions-api"}
+{"level":"info","message":"Updating user: 1","service":"acquisitions-api"}
+{"level":"info","message":"User sharad@gmail.com updated successfully","service":"acquisitions-api"}
+{"level":"info","message":"User sharad@gmail.com updated successfully","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [03/Dec/2025:18:07:16 +0000] \"PUT /api/users/1 HTTP/1.1\" 200 196 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [03/Dec/2025:18:08:01 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 113 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: sharad@gmail.com (user)","service":"acquisitions-api"}
+{"level":"warn","message":"Access denied for user sharad@gmail.com with role user. Required: admin","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [03/Dec/2025:18:08:12 +0000] \"DELETE /api/users/1 HTTP/1.1\" 403 62 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: sharad@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [03/Dec/2025:18:08:17 +0000] \"GET /api/users HTTP/1.1\" 200 521 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [03/Dec/2025:18:08:46 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 116 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: sharad2@gmail.com (admin)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [03/Dec/2025:18:09:02 +0000] \"GET /api/users HTTP/1.1\" 200 521 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: sharad2@gmail.com (admin)","service":"acquisitions-api"}
+{"level":"info","message":"Updating user: 2","service":"acquisitions-api"}
+{"level":"info","message":"User sharad-admin@gmail.com updated successfully","service":"acquisitions-api"}
+{"level":"info","message":"User sharad-admin@gmail.com updated successfully","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [03/Dec/2025:18:09:59 +0000] \"PUT /api/users/2 HTTP/1.1\" 200 205 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"level":"error","message":"Error signing in user: Invalid email or password","service":"acquisitions-api","stack":"Error: Invalid email or password\n    at signInUser (file:///app/src/services/auth.service.js:57:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async signIn (file:///app/src/controllers/auth.controller.js:61:18)"}
+{"level":"error","message":"Error in sign in: Invalid email or password","service":"acquisitions-api","stack":"Error: Invalid email or password\n    at signInUser (file:///app/src/services/auth.service.js:71:11)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async signIn (file:///app/src/controllers/auth.controller.js:61:18)"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [03/Dec/2025:18:10:04 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 401 37 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [03/Dec/2025:18:10:11 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 122 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: sharad-admin@gmail.com (admin)","service":"acquisitions-api"}
+{"level":"info","message":"Deleting user: 1","service":"acquisitions-api"}
+{"level":"info","message":"User sharad@gmail.com deleted successfully","service":"acquisitions-api"}
+{"level":"info","message":"User sharad@gmail.com deleted successfully","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [03/Dec/2025:18:10:19 +0000] \"DELETE /api/users/1 HTTP/1.1\" 200 116 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: sharad-admin@gmail.com (admin)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [03/Dec/2025:18:10:24 +0000] \"GET /api/users HTTP/1.1\" 200 377 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: sharad-admin@gmail.com (admin)","service":"acquisitions-api"}
+{"level":"info","message":"Deleting user: 3","service":"acquisitions-api"}
+{"level":"info","message":"User sharad69@gmail.com deleted successfully","service":"acquisitions-api"}
+{"level":"info","message":"User sharad69@gmail.com deleted successfully","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [03/Dec/2025:18:13:34 +0000] \"DELETE /api/users/3 HTTP/1.1\" 200 122 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: sharad-admin@gmail.com (admin)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [03/Dec/2025:18:13:39 +0000] \"GET /api/users HTTP/1.1\" 200 221 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Dec/2025:16:55:00 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Dec/2025:16:55:00 +0000] \"GET /api HTTP/1.1\" 200 55 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Dec/2025:16:55:00 +0000] \"GET /nonexsistent HTTP/1.1\" 404 27 \"-\" \"-\"","service":"acquisitions-api"}
