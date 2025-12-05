@@ -15,10 +15,6 @@ export default antfu({
     'no-console': ['warn'],
     'antfu/no-top-level-await': ['off'],
     'node/prefer-global/process': ['off'],
-    'unicorn/filename-case': ['error', {
-      case: 'kebabCase',
-      ignore: ['README.md'],
-    }],
-    'test/prefer-lowercase-title': 'off'
+    'test/prefer-lowercase-title': 'off',
   },
 });
